@@ -41,7 +41,11 @@ Generic presence checkers already exist: `repogap` checks README / LICENSE / `.g
 
 ## Install
 
-Python standard library only — no packages to download. Clone the repo and run it in place:
+```sh
+pip install repo-hygiene-checker-cli
+```
+
+Or clone from GitHub instead (Python standard library only, no packages to download):
 
 ```sh
 git clone https://github.com/haiderstudio/repo-hygiene-checker-cli.git
